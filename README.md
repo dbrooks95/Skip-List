@@ -6,6 +6,8 @@
 
 ```bash
 # Compile this program with one of the test cases via cmd line
-javac SkipList.java TestCase01.java
+javac TestCase01.java SkipList.java
 
+# Run
+java TestCase01
 ```
